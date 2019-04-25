@@ -1,7 +1,7 @@
 # Lebenslauf
 
    ## Persönliche Daten
-<table style="border: none">
+<table>
 	   <tr>
 		 
 		
