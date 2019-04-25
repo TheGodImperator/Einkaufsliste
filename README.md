@@ -1,7 +1,10 @@
 # Lebenslauf
 ## Persönliche Daten
-![alt text](Bild.jpg "Profilbild")#right
-
+![alt text](Bild.jpg "Profilbild")
+| - | - |
+|---|---|
+| I am text to the left  | ![Flowers](/Bild.jpg) |
+| ![Flowers](/Bild.jpg) | I am text to the right |
 <table>	
    <tr>
         <td>Name</td>
