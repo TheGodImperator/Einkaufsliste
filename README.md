@@ -1,9 +1,7 @@
 # Lebenslauf
 ## Persönliche Daten
-
+<img src="Bild.jpg" alt="Profilbild" width="200px" height="180px">
 <table>	
-	<tr>
-		<td>
    <tr>
         <td>Name</td>
 	<td>Pepe the GodImperator</td>
@@ -20,12 +18,5 @@
 	<td>Mobil</td>
         <td>0123/456789123</td>
     </tr>
-		</td>
-		<td>
-			<img src="Bild.jpg" alt="Profilbild">
-		</td>
-</tr>
-	
-	
 </table>
 
