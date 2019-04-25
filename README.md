@@ -20,4 +20,4 @@
     </tr>
 </table>
 Inline-style: 
-![alt text](https://vignette.wikia.nocookie.net/churchofkek/images/9/96/Pepe.jpg/revision/latest/scale-to-width-down/350?cb=20170327020319 "Profilbild")
+[[https://github.com/TheGodImperator/Einkaufsliste/blob/master/Bild.jpg|alt=Profilbild]]
