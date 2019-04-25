@@ -1,12 +1,7 @@
 # Lebenslauf
 
-   ## Persönliche Daten
-<table>
-	   <tr>
-		 
-		
-			  
-		     <td>
+ ## Persönliche Daten
+<img src="Bild.jpg" alt="Profilbild" >  
 <table>
     <tr>
         <td>Name</td>
@@ -25,9 +20,6 @@
         <td>0123/456789123</td>
     </tr>
 </table>
-			     </td>
-		   <td>
-<img src="Bild.jpg" alt="Profilbild">  
-			   </td>
-		      </tr>
-</table>
+
+		
+
