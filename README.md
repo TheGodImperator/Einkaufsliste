@@ -33,7 +33,7 @@
 #### Ein schönes Zitat eines erfolgreichen Internetstars
 > Der Durchschnitt ist immer so ne Durchshnittszahl.
 
-##### Eine for-Schleife, weil man weiß ja nie
+##### Eine for-Schleife, weil man weiß ja nie ( mit C++ Highlight syntax)
 ```C++
 for(int i = 0, i < 10, i++){
 // do stuff
