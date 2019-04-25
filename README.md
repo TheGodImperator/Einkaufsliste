@@ -1,7 +1,8 @@
 # Lebenslauf
 
  ## Persönliche Daten
-<img src="Bild.jpg" alt="Profilbild" >  <table>
+<img src="Bild.jpg" alt="Profilbild" >  
+<table>
 
     <tr>
         <td>Name</td>
