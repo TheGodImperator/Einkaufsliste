@@ -19,5 +19,4 @@
         <td>0123/456789123</td>
     </tr>
 </table>
-Inline-style: 
-![Alt text](https://github.com/TheGodImperator/Einkaufsliste/blob/master/Bild.jpg?raw=true "Title")
+![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
