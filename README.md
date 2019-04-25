@@ -29,3 +29,6 @@
 	<td>Erfolgreich Arbeitslos</td>
     </tr>
 </table>
+
+#### Lieblingszitat des Lords
+> 1.Der Durchschnitt ist immer so ne Durchshnittszahl.
