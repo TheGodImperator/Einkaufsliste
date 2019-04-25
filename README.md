@@ -1,7 +1,8 @@
 # Lebenslauf
 
  ## Persönliche Daten
- <table>
+ <img src="Bild.jpg" alt="Profilbild" align="right" size="50%">
+ <table align="right" >
 	<tr>
         <td>Name</td>
 	<td>Max Mustermann</td>
@@ -19,9 +20,9 @@
         <td>0123/456789123</td>
     </tr>
 </table>
-	
+
   
-<img src="Bild.jpg" alt="Profilbild" align="left" >
+
 	
 
 		
