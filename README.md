@@ -1,9 +1,7 @@
 # Lebenslauf
 ## Persönliche Daten
-![alt text](Bild.jpg "Logo Title Text 1")
-<div>
-<img src="Bild.jpg" alt="Profilbild" width="200px" height="180px" align="right">
-</div>
+![alt text](Bild.jpg#right "Profilbild")
+
 <table>	
    <tr>
         <td>Name</td>
