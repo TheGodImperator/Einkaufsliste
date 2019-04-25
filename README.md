@@ -1,6 +1,6 @@
 # Lebenslauf
 ## Persönliche Daten
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](Bild.jpg "Logo Title Text 1")
 <div>
 <img src="Bild.jpg" alt="Profilbild" width="200px" height="180px" align="right">
 </div>
