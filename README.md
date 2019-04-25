@@ -1,6 +1,6 @@
 # Lebenslauf
 ## Persönliche Daten
-![alt text](Bild.jpg#right "Profilbild")
+![alt text](Bild.jpg "Profilbild")#right
 
 <table>	
    <tr>
