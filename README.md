@@ -18,6 +18,7 @@
 	<td>Mobil</td>
         <td>0123/456789123</td>
     </tr>
-<img src="Bild.jpg" alt="Profilbild">  
+	<td><img src="Bild.jpg" alt="Profilbild">  </td>
+	
 </table>
 
