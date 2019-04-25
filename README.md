@@ -1,12 +1,6 @@
 # Lebenslauf
 
  ## Persönliche Daten
- <div style="white-space:nowrap;">
-
-
-
-   <div id="table" style="display:inline; white-space:nowrap;"> 
-
  <table>
 	<tr>
         <td>Name</td>
@@ -25,10 +19,10 @@
         <td>0123/456789123</td>
     </tr>
 </table>
-	</div>
-   	<div id="image" style="display:inline;">
+	
+  
 <img src="Bild.jpg" alt="Profilbild" align="left" >
-	</div>
-</div>
+	
+
 		
 
