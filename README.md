@@ -29,5 +29,5 @@
 		   <td>
 <img src="Bild.jpg" alt="Profilbild">  
 			   </td>
-		      <tr>
+		      </tr>
 </table>
