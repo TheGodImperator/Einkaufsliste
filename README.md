@@ -10,15 +10,15 @@
    </tr>
     <tr>
         <td>Name</td>
-	<td>Max Mustermann</td>
+	<td>Pepe the GodImperator</td>
     </tr>
     <tr>
 	<td>Adresse</td>
-        <td>Musterstraße 1</td>
+        <td>Whot?</td>
     </tr>
     <tr>
         <td></td>
-	<td>12345 Musterstadt</td>
+	<td>12345 Berlin</td>
     </tr>
     <tr>
 	<td>Mobil</td>
