@@ -20,4 +20,4 @@
     </tr>
 </table>
 Inline-style: 
-![Alt text](Bild.jpg?raw=true "Title")
+![Alt text](https://github.com/TheGodImperator/Einkaufsliste/blob/master/Bild.jpg?raw=true "Title")
