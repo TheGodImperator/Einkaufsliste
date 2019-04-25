@@ -1,7 +1,8 @@
 # Lebenslauf
 
  ## Persönliche Daten
-<img src="Bild.jpg" alt="Profilbild" ALIGN=RIGHT POSITION=ABSOLUTE>
+ <div style="white-space:nowrap;">
+
 
 
 
@@ -24,6 +25,7 @@
         <td>0123/456789123</td>
     </tr>
 </table>
-
+<img src="Bild.jpg" alt="Profilbild" >
+</div>
 		
 
