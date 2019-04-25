@@ -1,10 +1,11 @@
 # Lebenslauf
 
-<table>
+   ## Persönliche Daten
+<table style="border: none">
 	   <tr>
-		   <tr>
-		   ## Persönliche Daten
-			   </tr>
+		 
+		
+			  
 		     <td>
 <table>
     <tr>
