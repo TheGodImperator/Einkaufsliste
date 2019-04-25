@@ -2,13 +2,9 @@
 ## Persönliche Daten
 
 <table>	
-	
+	<tr>
+		<td>
    <tr>
-	<td></td>
-	<td></td>
-	<td><img src="Bild.jpg" alt="Profilbild">  </td>
-   </tr>
-    <tr>
         <td>Name</td>
 	<td>Pepe the GodImperator</td>
     </tr>
@@ -24,7 +20,12 @@
 	<td>Mobil</td>
         <td>0123/456789123</td>
     </tr>
-
+		</td>
+		<td>
+			<img src="Bild.jpg" alt="Profilbild">
+		</td>
+</tr>
+	
 	
 </table>
 
