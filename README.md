@@ -19,4 +19,4 @@
         <td>0123/456789123</td>
     </tr>
 </table>
-<div><img src="Bild.jpg" alt="tst"></div>   
+<img src="Bild.jpg" alt="Profilbild">  
