@@ -1,7 +1,6 @@
 # Lebenslauf
 ## Persönliche Daten
-![alt text](Bild.jpg "Profilbild")
-I am text to the right | ![Flowers](/Bild.jpg) | 
+ ![Profilbild](/Bild.jpg)
 <table>	
    <tr>
         <td>Name</td>
