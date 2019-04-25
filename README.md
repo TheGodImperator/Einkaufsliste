@@ -1,6 +1,6 @@
 # Lebenslauf
 ## Persönliche Daten
- ![Profilbild](/Bild.jpg)
+![Profilbild](/Bild.jpg)
 <table>	
    <tr>
         <td>Name</td>
