@@ -25,7 +25,7 @@
         <td>0123/456789123</td>
     </tr>
 </table>
-<img src="Bild.jpg" alt="Profilbild" >
+<img src="Bild.jpg" alt="Profilbild" ALIGN=RIGHT >
 </div>
 		
 
