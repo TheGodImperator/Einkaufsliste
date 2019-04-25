@@ -1,7 +1,7 @@
 # Lebenslauf
 ## Persönliche Daten
 <div>
-
+<img src="Bild.jpg" alt="Profilbild" width="200px" height="180px" align="right">
 </div>
 <table>	
    <tr>
@@ -28,4 +28,4 @@
         <td>1996-Heute</td>
 	<td>Erfolgreich Arbeitslos</td>
     </tr>
-</table><img src="Bild.jpg" alt="Profilbild" width="200px" height="180px" >
+</table>
