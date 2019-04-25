@@ -1,7 +1,7 @@
 # Lebenslauf
 
  ## Persönliche Daten
-<img src="Bild.jpg" alt="Profilbild" ALIGN=RIGHT>
+<img src="Bild.jpg" alt="Profilbild" ALIGN=RIGHT POSITION=ABSOLUTE>
 
 
 
