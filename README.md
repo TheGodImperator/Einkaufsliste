@@ -1,7 +1,10 @@
 # Lebenslauf
-## Persönliche Daten
+
 <table>
 	   <tr>
+		   <tr>
+		   ## Persönliche Daten
+			   </tr>
 		     <td>
 <table>
     <tr>
@@ -24,6 +27,6 @@
 			     </td>
 		   <td>
 <img src="Bild.jpg" alt="Profilbild">  
-			   /td>
+			   </td>
 		      <tr>
 </table>
