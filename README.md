@@ -30,5 +30,5 @@
     </tr>
 </table>
 
-#### Lieblingszitat des Lords
-> 1.Der Durchschnitt ist immer so ne Durchshnittszahl.
+#### Ein schönes Zitat eines erfolgreichen Internetstars
+> Der Durchschnitt ist immer so ne Durchshnittszahl.
