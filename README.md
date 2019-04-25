@@ -1,8 +1,8 @@
 # Lebenslauf
 ## Persönliche Daten
 <div>
-test<img src="Bild.jpg" alt="Profilbild" width="200px" height="180px" align="right">
-	</div>
+
+</div>
 <table>	
    <tr>
         <td>Name</td>
@@ -28,4 +28,4 @@ test<img src="Bild.jpg" alt="Profilbild" width="200px" height="180px" align="rig
         <td>1996-Heute</td>
 	<td>Erfolgreich Arbeitslos</td>
     </tr>
-</table>
+</table><img src="Bild.jpg" alt="Profilbild" width="200px" height="180px" >
